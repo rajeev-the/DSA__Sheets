@@ -36,7 +36,7 @@ file_path = "C:/DSA_sheet/DSA/Arrays/Simple_iterations/Questions.txt"
 
 
 # New row to be added
-new_row = [1, "Largest Element in Array", "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1", "Infosys  ,Oracle, Wipro ,Morga Stanley"]
+new_row = [2, "Remove Duplicates Sorted Array", "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1", "Zoho , Morgan Stanley, Microsoft, Samsung, Google, WiproXome"]
 
 # Read the existing table
 data = []
