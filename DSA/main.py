@@ -30,13 +30,14 @@
 
 import os
 
+
 # File path where the table will be saved
 file_path = "C:/DSA_sheet/DSA/Arrays/Simple_iterations/Questions.txt"
 
 
 
 # New row to be added
-new_row = [2, "Remove Duplicates Sorted Array", "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1", "Zoho , Morgan Stanley, Microsoft, Samsung, Google, WiproXome"]
+new_row = [2, "Maximum number of zeroes", "https://www.geeksforgeeks.org/problems/maximum-number-of-zeroes4048/1", "Oracle"]
 
 # Read the existing table
 data = []
